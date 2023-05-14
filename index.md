@@ -12,7 +12,7 @@ I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [
 Previously, I was a 4-year varsity swimmer at Brown. 
 I graduated in 2022 with honors in applied mathematics-biology, after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
-I previously spent two years performing biostatistics and health services research at the [Center for Surgery and Public Health (CSPH)](https://csph.brighamandwomens.org/).
+From 2018-2020 I performed data management, biostatistics, and health services research at the Brigham and Women's [Center for Surgery and Public Health (CSPH)](https://csph.brighamandwomens.org/).
 
 I grew up in Newton, Massachussets and went to Newton South High School.
 
