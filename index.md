@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a first-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.
+
 My research involves the application of artificial intelligence to clinical medicine.
 I am a member of the Orringer Lab and OLAB, and perform additional projects in the departments of Neurosurgery and Neuropathology.
 
