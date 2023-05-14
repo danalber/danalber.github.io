@@ -292,8 +292,13 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:#ab82c5;
+    color:#7ac1da;
   }
+  
+  a:hover {
+    color:#59b2d1;
+  }
+  
 }
 
 a small {
