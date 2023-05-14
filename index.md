@@ -17,7 +17,7 @@ I grew up in Newton, Massachussets and went to Newton South High School.
 
 ## Research
 
-- **Orringer Lab:** Ai-based intraoperative brain tumor diagnosis, Tumor-associated macrophage infiltration in high-grade glioma
+- **Orringer Lab:** AI-based intraoperative brain tumor diagnosis, Tumor-associated macrophage infiltration in high-grade glioma
 - **OLAB:** Clinical large language models
 
 ## News
