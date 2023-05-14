@@ -20,12 +20,12 @@ In my spare time I enjoy operas, art and architecture, photography, and playing 
 
 ## Research
 
-- **Orringer Lab:** AI-based intraoperative brain tumor diagnosis, Tumor-associated macrophage infiltration in high-grade glioma
+- **Orringer Lab:** AI-powered intra-operative brain tumor diagnosis, Stimulated Raman histology, Tumor-associated macrophage infiltration in high-grade glioma
 - **OLAB:** Clinical large language models
 
 ## News
 
-- **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship. 
+- **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship to explore intra-operative molecular diagnosis of high-grade glioma using AI and stimulated Raman histology. 
 
 <!-- {% include_relative _includes/publications.md %}
 
