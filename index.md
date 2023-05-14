@@ -8,7 +8,7 @@ I am a first-year medical student and Vilcek merit scholar at the NYU Grossman S
 My research involves the application of artificial intelligence to clinical medicine.
 I am a member of the Orringer Lab and OLAB, and perform additional projects in the departments of Neurosurgery and Neuropathology.
 
-In my spare time I enjoy operas, art and architecture, photography, and playing electric guitar
+In my spare time I enjoy operas, art and architecture, photography, and playing electric guitar.
 
 Previously, I was a 4-year varsity swimmer at Brown. 
 I graduated in 2022 with honors in applied mathematics-biology, after completing a thesis in statistical neuroscience under the direction of Wilson Truccolo.
