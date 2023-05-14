@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-### I am a first-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.
+**I am a first-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
 My research involves the application of artificial intelligence to clinical medicine.
 I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/), and work on additional projects in the departments of neurosurgery and neuropathology.
