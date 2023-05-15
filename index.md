@@ -25,7 +25,7 @@ In my spare time I enjoy operas, art and architecture, photography, and playing 
 
 ## News
 
-- **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship to develop AI-based methods for intra-operative molecular diagnosis of high-grade glioma using stimulated Raman histology. 
+- **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship.
 
 <!-- {% include_relative _includes/publications.md %}
 
