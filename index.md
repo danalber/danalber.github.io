@@ -20,8 +20,9 @@ In my spare time I enjoy operas, art and architecture, photography, and playing 
 
 ## Research
 
-- **Orringer Lab:** AI-powered intra-operative brain tumor diagnosis, Stimulated Raman histology, Tumor-associated macrophage infiltration in high-grade glioma
+- **Orringer Lab:** Computer vision-based brain tumor diagnosis, Molecular forecasting of glioblastoma, Immune infiltration in high-grade glioma
 - **OLAB:** Clinical large language models
+- **Misc:** Bibliometrics, clinical/translational/QI research in neurosurgery
 
 ## News
 
