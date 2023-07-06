@@ -26,7 +26,7 @@ I enjoy operas, art and architecture, photography, and playing electric guitar i
 
 ## News
 
-- **[July. 2023]** Two abstracts were selected for oral presentations and one for a digital poster at the 2023 Congress of Neurological Surgeons annual meeting.
+- **[July. 2023]** Two abstracts were selected for oral presentation and one for a digital poster at the 2023 Congress of Neurological Surgeons annual meeting.
 - **[June. 2023]** Our clinical abstract "Evaluating the Quality of Salvaged Blood Products Using Stimulated Raman Spectroscopy and Deep Learning" was accepted at Machine Learning for Health 2023.
 - **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship.
 
