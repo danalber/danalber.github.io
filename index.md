@@ -6,15 +6,13 @@ layout: homepage
 
 **I am a first-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
-My research involves the application of artificial intelligence to clinical medicine.
-I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/) and I work on additional projects in the departments of neurosurgery and neuropathology.
+My research involves the application of artificial intelligence to medicine. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/) and I work on additional projects in the departments of neurosurgery and neuropathology. I want to drive the implementation of AI in clinical practice and contribute towards policy and regulatory challenges in healthcare AI.
 
-Previously, I was a 4-year varsity swimmer at Brown. 
-I graduated in 2022 with honors in applied mathematics-biology, after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
+Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology, after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
 From 2018-2020 I performed data management, biostatistics, and health services research at the Brigham and Women's [Center for Surgery and Public Health (CSPH)](https://csph.brighamandwomens.org/).
 
-I grew up in Newton, Massachusetts, and went to Newton South High School.
+I grew up in Newton, Massachusetts, and attended Newton South High School.
 
 I enjoy operas, art and architecture, photography, playing electric guitar, and swimming in my spare time.
 
@@ -26,7 +24,7 @@ I enjoy operas, art and architecture, photography, playing electric guitar, and 
 
 ## News
 
-- **[July. 2023]** Two abstracts were selected for oral presentation and one for a digital poster at the 2023 Congress of Neurological Surgeons annual meeting.
+- **[July. 2023]** Two abstracts were chosen for oral presentation and one for a digital poster at the 2023 Congress of Neurological Surgeons annual meeting.
 - **[June. 2023]** Our clinical abstract "Evaluating the Quality of Salvaged Blood Products Using Stimulated Raman Spectroscopy and Deep Learning" was accepted at Machine Learning for Health 2023.
 - **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship.
 
