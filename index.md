@@ -8,7 +8,7 @@ layout: homepage
 
 My research involves the application of artificial intelligence to medicine. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/). I want to drive the implementation of AI in clinical practice and contribute towards related policy and regulatory challenges.
 
-Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology, after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
+Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
 From 2018-2020 I performed data management, biostatistics, and health services research at the Brigham and Women's [Center for Surgery and Public Health (CSPH)](https://csph.brighamandwomens.org/).
 
