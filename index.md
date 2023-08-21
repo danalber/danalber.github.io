@@ -6,7 +6,7 @@ layout: homepage
 
 **I am a second-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
-My research involves the application of artificial intelligence to medicine. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/). I want to drive the implementation of AI in clinical practice and contribute towards related policy and regulatory challenges.
+My research involves the application of artificial intelligence to medicine. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/). I want to drive the implementation of AI in clinical practice and solve the related policy and regulatory challenges.
 
 Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
