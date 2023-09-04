@@ -6,7 +6,7 @@ layout: homepage
 
 **I am a second-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
-My research involves the application of artificial intelligence to medicine. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice and work towards solving the related policy and regulatory challenges.
+My research focuses on medical applications of artificial intelligence and deep learning. I am a member of the [Orringer lab](https://twitter.com/danorringermd) and the [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice and help navigate the related policy and regulatory challenges.
 
 Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
@@ -18,9 +18,8 @@ In my spare time, I enjoy operas, art and architecture, photography, playing ele
 
 ## Research
 
-- **Orringer Lab:** Computer vision-based brain tumor diagnosis, Molecular forecasting of glioblastoma, Immune infiltration in high-grade glioma
-- **OLAB:** Clinical large language models
-- **Misc:** Bibliometrics, clinical/translational/QI research in neurosurgery
+- **Orringer Lab:** Computer vision-based brain tumor diagnosis, Molecular forecasting of glioblastoma, Immune infiltration in high-grade glioma.
+- **OLAB:** Clinical large language models.
 
 ## News
 - **[September. 2023]** Our abstract, _Deep Learning-Based Image-to-Image Translation to Identify Macrophage Infiltration in High-Grade Glioma Using Label-Free Stimulated Raman Histology_, won the 2023 CNS Data Science Award.
