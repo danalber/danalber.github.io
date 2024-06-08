@@ -27,7 +27,6 @@ In my spare time, I enjoy operas, art and architecture, photography, playing ele
 - **[July. 2023]** Two abstracts were chosen for oral presentation and one for a digital poster at the 2023 Congress of Neurological Surgeons (CNS) annual meeting.
 - **[June. 2023]** Our clinical abstract, _Evaluating the Quality of Salvaged Blood Products Using Stimulated Raman Spectroscopy and Deep Learning_, was accepted for presentation at Machine Learning for Health 2023.
 - **[April. 2023]** I was awarded a Neurosurgery Research and Education Foundation (NREF) medical student summer fellowship.
--->
-<!-- {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %} -->
