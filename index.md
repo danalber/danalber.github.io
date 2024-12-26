@@ -18,6 +18,8 @@ In my spare time, I enjoy operas, art and architecture, photography, playing ele
 
 ## Research
 
-- **OLAB:** Clinical large language models. Vision-language models for thoracic imaging. 
-- **Orringer Lab:** Computer vision for intraoperative brain tumor diagnosis.
+- **OLAB:** Clinical large language model security (2023-24). Vision-language models for thoracic imaging (2024-). 
+- **Orringer Lab:** Computer vision for intraoperative brain tumor diagnosis (2020-23).
+- **Truccolo Lab:** Functional connectivity analysis in pediatric epilepsy (2020-22).
+- **CSPH:** Trauma systems (2018-2020).
 
