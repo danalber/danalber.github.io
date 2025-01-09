@@ -10,7 +10,7 @@ My research involves the medical applications of artificial intelligence and dee
 
 Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
-From 2018-2020, I performed data management, biostatistics, and health services research at the Brigham and Women's [Center for Surgery and Public Health (CSPH)](https://csph.brighamandwomens.org/).
+From 2018-2020, I performed data management, biostatistics, and health services research at the Brigham and Women's [Center for Surgery and Public Health](https://csph.brighamandwomens.org/).
 
 I grew up in Newton, Massachusetts, and attended Newton South High School.
 
@@ -18,7 +18,7 @@ In my spare time, I enjoy operas, art and architecture, photography, playing ele
 
 ## Research
 
-- **OLAB:** Clinical large language model security (2023-24). Vision-language models for thoracic imaging (2024-). 
+- **OLAB:** Medical LLM security (2023-24). Vision-language models for thoracic imaging (2024-). 
 - **Orringer Lab:** Computer vision for intraoperative brain tumor diagnosis (2020-23).
 - **Truccolo Lab:** Functional connectivity analysis in pediatric epilepsy (2020-22).
 - **CSPH:** Trauma systems (2018-2020).
