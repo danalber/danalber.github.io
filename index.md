@@ -6,7 +6,7 @@ layout: homepage
 
 **I am a third-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
-My research involves medical applications of artificial intelligence, specifically deep learning in natural language processing, computer vision, and their intersection. I am a member of the NYU [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice and help navigate the emerging policy and regulatory challenges.
+My research involves medical applications of artificial intelligence, specifically deep learning in natural language processing, computer vision, and their intersection. I am a member of the NYU [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice while navigating the emerging policy and regulatory challenges.
 
 Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
