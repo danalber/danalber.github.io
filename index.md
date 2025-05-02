@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-**I am a third-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
+**I am a fourth-year medical student and Vilcek merit scholar at the NYU Grossman School of Medicine.**
 
 My research involves medical applications of artificial intelligence, specifically deep learning in natural language processing, computer vision, and their intersection. I am a member of the NYU [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice while navigating the related policy and regulatory challenges.
 
