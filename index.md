@@ -14,7 +14,7 @@ From 2018-2020, I performed data management, biostatistics, and health services 
 
 I grew up in Newton, Massachusetts, and attended Newton South High School.
 
-In my spare time, I enjoy operas, art and architecture, photography, and swimming.
+In my spare time, I enjoy operas, art and architecture, and swimming.
 
 ## Research
 
