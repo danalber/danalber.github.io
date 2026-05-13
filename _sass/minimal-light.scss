@@ -19,52 +19,22 @@ body {
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#330662!important; //#043361
+  color:#8C1515!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #ab82c5 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #D4908F !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
-    /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-      .social-icons a:hover:after {
-        width: 100%;
-        background: #337ab7;
-      }
-     */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#1A1B21;
     color:black;
     transform: scale(1.2)} 
-    /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-    .social-icons a:hover:after {
-        width: 100%;
-        background: #a0b0ff;
-      }
-    */
 }
 
 .icon-button{
@@ -172,7 +142,7 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
+        background-color: #1A1B21;
         color: #dadbdf;
     }
 
@@ -230,9 +200,6 @@ papertitle {
         border-radius: 100%;
         width: 45%;
         padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
     #header .image.avatar {
@@ -242,18 +209,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#330662;
+  color:#8C1515;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#330662;
+  color:#8C1515;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#330662;
+  color:#8C1515;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -261,11 +228,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#ab82c5;
+    color:#D4908F;
   }
 
   h2 {
-    color:#ab82c5;
+    color:#D4908F;
   }
 }
 
@@ -282,21 +249,21 @@ h1 {
 }
 
 a {
-  color:#59B2D1;
+  color:#2E7D6F;
   text-decoration:none;
 }
 
 a:hover {
-  color:#478ea7;
+  color:#1F5B51;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:#7ac1da;
+    color:#6DC4B4;
   }
   
   a:hover {
-    color:#59b2d1;
+    color:#52A89A;
   }
   
 }
@@ -360,11 +327,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color:#ab82c5;
+    color:#D4908F;
   }
 
   dt {
-    color:#ab82c5;
+    color:#D4908F;
   }
 }
 
