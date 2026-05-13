@@ -6,7 +6,9 @@ layout: homepage
 
 **I am an incoming Cardiothoracic Surgery Resident at Stanford University**
 
-My clinical interests are congenital cardiac surgery, aortic surgery, and structural heart (particularly, mitral valve repair). My research involves medical applications of AI and deep learning in natural language processing, computer vision, and their intersection. I am a member of the NYU [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice while navigating the related policy and regulatory challenges.
+My clinical interests are congenital cardiac surgery, aortic surgery, and structural heart (particularly, mitral valve repair).
+
+My research involves medical applications of AI and deep learning in natural language processing, computer vision, and their intersection. I am a member of the NYU [OLAB](https://www.nyuolab.org/). I hope to drive the implementation of AI in clinical practice while navigating the related policy and regulatory challenges.
 
 In May 2026, I received my MD with Honors from NYU Grossman School of Medicine, where I was a Vilcek Merit Scholar. Previously, I was a 4-year varsity swimmer at Brown. I graduated in 2022 with honors in applied mathematics-biology after completing a [thesis](./assets/alber_thesis_final.pdf) in statistical neuroscience under the direction of [Wilson Truccolo](https://www.truccololab.com/).
 
