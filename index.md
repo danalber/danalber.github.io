@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-**I am an incoming Cardiothoracic Surgery Resident at Stanford University**
+**I am an incoming Cardiothoracic Surgery Resident at Stanford University.**
 
 My clinical interests are congenital cardiac surgery, aortic surgery, and structural heart (particularly, mitral valve repair).
 
