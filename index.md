@@ -17,11 +17,3 @@ From 2018-2020, I performed data management, biostatistics, and health services 
 I grew up in Newton, Massachusetts, and attended Newton South High School.
 
 In my spare time, I enjoy operas and live music, art and architecture, and swimming.
-
-## Research
-
-- **OLAB:** Medical LLM security (2023-24). Vision-language models for cardiothoracic imaging (2024-). 
-- **Orringer Lab:** Computer vision for intraoperative brain tumor diagnosis (2020-23).
-- **Truccolo Lab:** Functional connectivity analysis in pediatric epilepsy (2020-22).
-- **CSPH:** Trauma systems (2018-2020).
-
